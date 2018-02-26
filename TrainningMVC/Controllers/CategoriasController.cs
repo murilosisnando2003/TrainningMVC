@@ -42,7 +42,38 @@ namespace TrainningMVC.Controllers
         // GET: Categorias
         public ActionResult Index()
         {
-            return View(categorias);
+            return View(categorias.OrderBy(c => c.Nome));
+        }
+
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        // GET: Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(Categoria categoria)
+        {
+            categorias.Add(categoria);
+            categoria.CategoriaId =
+                categorias.Select(m => m.CategoriaId).Max() + 1;
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult Edit(long id)
+        {
+            return View(categorias.Where(m => m.CategoriaId ==id).First());
+        }
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit(Categoria categoria)
+        {
+            categorias.Remove(categorias.Where(c => c.CategoriaId == c.CategoriaId).First());
+            categorias.Add(categoria);
+            return RedirectToAction("Index");
         }
     }
 }
