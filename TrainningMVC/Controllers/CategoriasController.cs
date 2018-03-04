@@ -75,5 +75,18 @@ namespace TrainningMVC.Controllers
             categorias.Add(categoria);
             return RedirectToAction("Index");
         }
+
+        public ActionResult Delete(long id)
+        {
+            return View(categorias.Where(m => m.CategoriaId == id).First());
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Delete(Categoria categoria)
+        {
+            categorias.Remove(categorias.Where(c => c.CategoriaId == c.CategoriaId).First());
+            return RedirectToAction("Index");
+        }
     }
 }
