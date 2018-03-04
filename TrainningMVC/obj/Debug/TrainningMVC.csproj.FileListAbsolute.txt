@@ -53,3 +53,7 @@ C:\Users\murilohenrique\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\Tra
 C:\Users\murilohenrique\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.csproj.CoreCompileInputs.cache
 C:\Users\murilohenrique\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.dll
 C:\Users\murilohenrique\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.pdb
+C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.dll
+C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.xml
+C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.SqlServer.xml
