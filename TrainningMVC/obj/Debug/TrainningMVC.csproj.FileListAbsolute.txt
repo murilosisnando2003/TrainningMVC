@@ -57,4 +57,3 @@ C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.d
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.xml
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.SqlServer.xml
-C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.csprojResolveAssemblyReference.cache
