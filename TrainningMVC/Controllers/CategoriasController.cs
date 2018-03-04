@@ -85,8 +85,13 @@ namespace TrainningMVC.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Delete(Categoria categoria)
         {
-            categorias.Remove(categorias.Where(c => c.CategoriaId == c.CategoriaId).First());
+            categorias.Remove(categorias.Where(c => c.CategoriaId == categoria.CategoriaId).First());
             return RedirectToAction("Index");
+        }
+
+        public ActionResult Details(long id)
+        {
+            return View(categorias.Where(m => m.CategoriaId == id).First());
         }
     }
 }

@@ -22,7 +22,6 @@ C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\pt-br\System.Web.
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\pt-br\System.Web.Webpages.Razor.resources.dll
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\pt-br\System.Web.Mvc.resources.dll
-C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.csprojResolveAssemblyReference.cache
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.csproj.CoreCompileInputs.cache
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.dll
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.pdb
