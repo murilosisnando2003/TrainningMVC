@@ -22,7 +22,6 @@ C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\pt-br\System.Web.
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\pt-br\System.Web.Webpages.Razor.resources.dll
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\pt-br\System.Web.Mvc.resources.dll
-C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.csprojResolveAssemblyReference.cache
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.csproj.CoreCompileInputs.cache
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.dll
 C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.pdb
@@ -54,6 +53,7 @@ C:\Users\murilohenrique\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\Tra
 C:\Users\murilohenrique\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.csproj.CoreCompileInputs.cache
 C:\Users\murilohenrique\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.dll
 C:\Users\murilohenrique\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.pdb
+<<<<<<< HEAD
 C:\Users\sa4007\source\repos\TrainningMVC\TrainningMVC\bin\TrainningMVC.dll.config
 C:\Users\sa4007\source\repos\TrainningMVC\TrainningMVC\bin\TrainningMVC.dll
 C:\Users\sa4007\source\repos\TrainningMVC\TrainningMVC\bin\TrainningMVC.pdb
@@ -82,3 +82,10 @@ C:\Users\sa4007\source\repos\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.cs
 C:\Users\sa4007\source\repos\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.csproj.CoreCompileInputs.cache
 C:\Users\sa4007\source\repos\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.dll
 C:\Users\sa4007\source\repos\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.pdb
+=======
+C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.dll
+C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.xml
+C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\murilo\Documents\GitHub\TrainningMVC\TrainningMVC\obj\Debug\TrainningMVC.csprojResolveAssemblyReference.cache
+>>>>>>> 64f9a7cc312fa6dd06d44256f8d33863059235b1
